@@ -1,0 +1,95 @@
+[versions]
+accompanistSystemuicontroller = "0.31.4-beta"
+agp = "8.11.1"
+coilCompose = "2.4.0"
+coreSplashscreen = "1.0.1"
+credentials = "1.5.0-alpha05"
+dagger = "2.47"
+datastorePreferences = "1.1.1"
+firebaseUiAuth = "4.0.0"
+foundation = "1.6.8"
+googleHiltAndroid = "2.47"
+googleid = "1.1.1"
+hiltAndroid = "2.45"
+hiltAndroidCompiler = "2.47"
+hiltAndroidVersion = "2.44"
+kotlin = "1.9.0"
+coreKtx = "1.12.0"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+kotlinxSerializationJson = "1.5.1"
+lifecycleRuntimeKtx = "2.7.0"
+activityCompose = "1.8.2"
+composeBom = "2023.08.00"
+material3Android = "1.2.1"
+datastoreCoreAndroid = "1.1.1"
+navigationCompose = "2.7.7"
+playServicesAuth = "21.2.0"
+retrofit = "2.9.0"
+retrofit2KotlinxSerializationConverter = "1.0.0"
+runtimeLivedata = "1.6.8"
+pagingCommonAndroid = "3.3.1"
+pagingComposeAndroid = "3.3.1"
+roomCommon = "2.6.1"
+roomKtx = "2.6.1"
+googleGmsGoogleServices = "4.4.2"
+firebaseAuth = "23.0.0"
+benchmarkMacro = "1.3.0"
+firebaseAi = "16.2.0"
+
+[libraries]
+accompanist-systemuicontroller = { module = "com.google.accompanist:accompanist-systemuicontroller", version.ref = "accompanistSystemuicontroller" }
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+androidx-core-splashscreen = { module = "androidx.core:core-splashscreen", version.ref = "coreSplashscreen" }
+androidx-credentials = { module = "androidx.credentials:credentials", version.ref = "credentials" }
+androidx-credentials-play-services-auth = { module = "androidx.credentials:credentials-play-services-auth", version.ref = "credentials" }
+androidx-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastorePreferences" }
+androidx-datastore-preferences-core = { module = "androidx.datastore:datastore-preferences-core", version.ref = "datastorePreferences" }
+androidx-datastore-preferences-rxjava2 = { module = "androidx.datastore:datastore-preferences-rxjava2", version.ref = "datastorePreferences" }
+androidx-datastore-preferences-rxjava3 = { module = "androidx.datastore:datastore-preferences-rxjava3", version.ref = "datastorePreferences" }
+androidx-foundation = { module = "androidx.compose.foundation:foundation", version.ref = "foundation" }
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigationCompose" }
+androidx-runtime-livedata = { module = "androidx.compose.runtime:runtime-livedata", version.ref = "runtimeLivedata" }
+coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coilCompose" }
+dagger = { module = "com.google.dagger:dagger", version.ref = "dagger" }
+dagger-compiler = { module = "com.google.dagger:dagger-compiler", version.ref = "dagger" }
+firebase-ui-auth = { module = "com.firebaseui:firebase-ui-auth", version.ref = "firebaseUiAuth" }
+googleid = { module = "com.google.android.libraries.identity.googleid:googleid", version.ref = "googleid" }
+hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hiltAndroid" }
+hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hiltAndroidVersion" }
+hilt-android-compiler-v247 = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hiltAndroidCompiler" }
+hilt-android-v244 = { module = "com.google.dagger:hilt-android", version.ref = "hiltAndroidVersion" }
+hilt-android-v247 = { module = "com.google.dagger:hilt-android", version.ref = "googleHiltAndroid" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-lifecycle-runtime-ktx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
+androidx-ui = { group = "androidx.compose.ui", name = "ui" }
+androidx-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+androidx-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+androidx-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+androidx-ui-test-manifest = { group = "androidx.compose.ui", name = "ui-test-manifest" }
+androidx-ui-test-junit4 = { group = "androidx.compose.ui", name = "ui-test-junit4" }
+androidx-material3 = { group = "androidx.compose.material3", name = "material3" }
+androidx-material3-android = { group = "androidx.compose.material3", name = "material3-android", version.ref = "material3Android" }
+androidx-datastore-core-android = { group = "androidx.datastore", name = "datastore-core-android", version.ref = "datastoreCoreAndroid" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinxSerializationJson" }
+play-services-auth = { module = "com.google.android.gms:play-services-auth", version.ref = "playServicesAuth" }
+retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
+retrofit2-kotlinx-serialization-converter = { module = "com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter", version.ref = "retrofit2KotlinxSerializationConverter" }
+androidx-paging-common-android = { group = "androidx.paging", name = "paging-common-android", version.ref = "pagingCommonAndroid" }
+androidx-paging-compose-android = { group = "androidx.paging", name = "paging-compose-android", version.ref = "pagingComposeAndroid" }
+androidx-room-common = { group = "androidx.room", name = "room-common", version.ref = "roomCommon" }
+androidx-room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "roomKtx" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth", version.ref = "firebaseAuth" }
+androidx-benchmark-macro = { group = "androidx.benchmark", name = "benchmark-macro", version.ref = "benchmarkMacro" }
+firebase-ai = { group = "com.google.firebase", name = "firebase-ai", version.ref = "firebaseAi" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+googleGmsGoogleServices = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
+

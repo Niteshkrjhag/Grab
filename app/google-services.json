@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898467885852",
+    "project_id": "grab-app-c34d4",
+    "storage_bucket": "grab-app-c34d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898467885852:android:00778ff2cbb26224fd40d9",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVJfNjkDZKb6jsXumCqdZBztHAfljpRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
