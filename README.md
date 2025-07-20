@@ -27,9 +27,9 @@ The application follows MVVM architecture and is built entirely with Jetpack Com
 
 ## 🎬 Demo
 
-Check out the [app demo video](https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747) to see GRAB in action.
-https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747
-https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747
+![GRAB App Demo](https://github.com/user-attachments/assets/2f2070fc-114d-4310-abae-bb0ba86dfa3c)
+
+[Watch the full demo video](https://github.com/user-attachments/assets/2f2070fc-114d-4310-abae-bb0ba86dfa3c)
 
 ## 🛠️ Technology Stack
 
