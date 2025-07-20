@@ -9,7 +9,7 @@
 [![Room](https://img.shields.io/badge/Room-2.6.1-yellow.svg)](https://developer.android.com/training/data-storage/room)
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/2f2070fc-114d-4310-abae-bb0ba86dfa3c">📺 View Demo Video</a>
+  <a href="https://github.com/user-attachments/assets/a83000d0-7511-43cc-a8e0-838b6094213f">📺 View Demo Video</a>
 </p>
 
 
