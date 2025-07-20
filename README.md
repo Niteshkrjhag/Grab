@@ -8,11 +8,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-orange.svg)](https://firebase.google.com/)
 [![Room](https://img.shields.io/badge/Room-2.6.1-yellow.svg)](https://developer.android.com/training/data-storage/room)
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/a83000d0-7511-43cc-a8e0-838b6094213f">📺 View Demo Video</a>
-</p>
-
-
 ## 📱 Overview
 
 GRAB is a cutting-edge news application that delivers curated content from the worlds of technology, business, and cryptocurrency. Built with modern Android development practices, GRAB offers a seamless user experience with features like offline reading, AI-powered content summaries, and secure authentication.
@@ -32,7 +27,9 @@ The application follows MVVM architecture and is built entirely with Jetpack Com
 
 ## 🎬 Demo
 
-Check out the [app demo video](https://github.com/user-attachments/assets/2f2070fc-114d-4310-abae-bb0ba86dfa3c) to see GRAB in action.
+Check out the [app demo video](https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747) to see GRAB in action.
+https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747
+https://github.com/Niteshkrjhag/Grab/issues/1#issue-3245952747
 
 ## 🛠️ Technology Stack
 
