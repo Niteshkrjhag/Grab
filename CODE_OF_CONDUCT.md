@@ -75,7 +75,7 @@ This includes:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [niteshkrjha8@gmail.com](mailto:niteshkrjha8@gmail.com).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [niteshkrjha8@gmail.com](mailto:niteshkrjhag@gmail.com).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
